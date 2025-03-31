@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![Architecture](assets\project_architechture.png)
+![Architecture](assets/project_architechture.png)
 
 This project provides a comprehensive, **industry-ready** approach to building an end-to-end data engineering pipeline on Azure. It covers in-demand tools and technologies in detail.The project focuses on building a parameterized dynamic data pipeline in **Azure Data Factory** to pull data directly from APIs using powerful PySpark functions in **Databricks** for data transformation. The project follows a **medallion architecture** (Bronze, Silver, Gold layers).
 
